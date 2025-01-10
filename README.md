@@ -10,3 +10,5 @@ The app displays the beautiful UI of the intro page.
 - The homepage consist of a dark theme, with some texts and images.
 
 # License: Open Source License. You can view, modify, and distribute this code.
+
+![image alt](https://github.com/iamedwino/e-commerce-UI/blob/dd952087d24dae13b853a8c9b4bea079a90bdab5/UI%20Screenshot.png)
